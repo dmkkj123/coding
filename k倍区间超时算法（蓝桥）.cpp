@@ -22,7 +22,7 @@ int main(){
 			if(sum % k == 0) ans++;
 		}
 	}
-	cout << ans << endl;
+	cout << ans << "\n";
 	
 	return 0;
 }
